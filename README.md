@@ -29,6 +29,11 @@ following components:
 8. Creating classification maps from reclassified thresholds
 9. Creating frequency maps for moderate disturbance from classification maps
 
-Technical Point of Contact
+
+Glacier automation folder setup file:
+https://drive.google.com/file/d/1dMpjLLh7ect-R78gHc6ZeEZtFaMsyXqC/view?usp=sharing
+
+Technical Point of Contact:
+
 Antonio Alvarado
 antonioalvaradojr@gmail.com
